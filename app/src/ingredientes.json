@@ -1,0 +1,55 @@
+{
+  "ingredients": ["Pollo", "Arroz", "Papa", "Aji Amarillo", "Cebolla", "Tomate", "Limón", "Choclo", "Camote", "Culantro", "Pescado", "Camarones", "Calamar", "Queso fresco", "Palta", "Aceitunas", "Huevos", "Aceite de oliva", "Ajo", "Vinagre"],
+  "recipes": [
+      {
+        "name": "Tiradito de Pescado",
+        "ingredients": ["Pescado", "Limón", "Aji Amarillo"],
+        "image": "app/src/css/img/6.jpg"
+      },
+      {
+        "name": "Arroz con Mariscos",
+        "ingredients": ["Arroz", "Camarones", "Calamar", "Aceite de oliva"],
+        "image": "app/src/css/img/7.jpg"
+      },
+      {
+        "name": "Causa Rellena",
+        "ingredients": ["Papa", "Aji Amarillo", "Limón"],
+        "image": "app/src/css/img/5.jpg"
+      },
+      {
+        "name": "Ensalada de Palta y Queso Fresco",
+        "ingredients": ["Palta", "Queso fresco", "Aceitunas", "Aceite de oliva", "Limón"],
+        "image": "app/src/css/img/8.jpg"
+      },
+      {
+        "name": "Rocoto Relleno",
+        "ingredients": ["Rocoto", "Carne molida", "Queso fresco", "Ajo"],
+        "image": "app/src/css/img/9.jpg"
+      },
+      {
+        "name": "Arroz con Pollo",
+        "ingredients": ["Pollo", "Arroz", "Culantro"],
+        "image": "app/src/css/img/4.jpg"
+      },
+      {
+        "name": "Ají de Gallina",
+        "ingredients": ["Pollo", "Aji Amarillo", "Cebolla"],
+        "image": "app/src/css/img/1.jpg"
+      },
+      {
+        "name": "Lomo Saltado",
+        "ingredients": ["Papa", "Cebolla", "Tomate"],
+        "image": "app/src/css/img/2.jpg"
+      },
+      {
+        "name": "Ceviche",
+        "ingredients": ["Limón", "Cebolla"],
+        "image": "app/src/css/img/3.jpg"
+      }
+    ]
+}
+
+
+
+
+  
